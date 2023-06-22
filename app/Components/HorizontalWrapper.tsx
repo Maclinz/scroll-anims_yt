@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { dir } from "console";
 
 interface Props {
   children: React.ReactNode;
